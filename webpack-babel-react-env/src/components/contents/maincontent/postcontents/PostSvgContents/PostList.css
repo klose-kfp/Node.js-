@@ -1,0 +1,40 @@
+/* SVG用設定 */
+.actor{
+    fill:#6A7FAB;
+}
+
+tspan{
+    fill:#FAFBF9;
+    stroke:none;
+}
+#actor0{
+    stroke: #6A7FAB;
+    fill: #6A7FAB;
+    stroke-width: 2px
+}
+.loopLine{
+    stroke-width: 2px;
+    stroke-dasharray: 2,2;
+    stroke: #6A7FAB;
+    fill: #6A7FAB;
+}
+
+.labelBox{
+    fill:#6A7FAB;
+}
+.labelText{
+    font-size: 16px;
+    font-weight: 400;
+    fill:#FAFBF9;
+    stroke:none;
+}
+/* ここまで-------------------------- */
+
+.post-svg{
+    width: 100%;
+    align-items: center;
+}
+.post-svg svg {
+    width: 70%;
+    margin:0 auto;
+}

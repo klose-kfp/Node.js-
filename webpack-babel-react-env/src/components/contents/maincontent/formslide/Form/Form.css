@@ -1,0 +1,96 @@
+.form-zone{
+    height:100%;
+    width:100%;
+    padding-left: 3%;
+    padding-right: 3%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form{
+    height: 68%;
+    width:100%;
+    display: flex;
+    justify-content: center;
+}
+
+.btn-zone{
+    height:8%;
+    width: 45%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btns{
+    font-size: 15px;
+    background-color: antiquewhite;
+    padding: 2px;
+}
+.addtext{
+    height:20%;
+    width:80%;
+    position: relative;
+    margin-top: 2%;
+    margin-bottom: 6%;
+}
+.helptext{
+    height:60%;
+    display: flex;
+    align-items: center;
+    margin-bottom: 2%;
+}
+
+.addicon-help:hover{
+}
+.addicon-animation{
+    background-color: aqua!important;
+	-webkit-animation:blink 1.3s ease-in-out infinite alternate;
+    -moz-animation:blink 1.3s ease-in-out infinite alternate;
+    animation:blink 1.3s ease-in-out infinite alternate;
+}
+@-webkit-keyframes blink{
+    0% {opacity:0.2;}
+    100% {opacity:1;}
+}
+@-moz-keyframes blink{
+    0% {opacity:0.2;}
+    100% {opacity:1;}
+}
+@keyframes blink{
+    0% {opacity:0.2;}
+    100% {opacity:1;}
+}
+.iftext{
+    display: flex;
+    align-items: center;
+    height:40%;
+    margin-bottom: 6%;
+}
+
+.addicon-if:hover{
+    /* background-color: aqua!important; */
+}
+
+.form-zone-save{
+    height: 100%;
+    /* width: 100%; */
+}
+
+.form-zone-save-contents{
+    width: 100%;
+}
+.form-zone-save-contents-title{
+    text-align: center;
+    padding: 5%;
+    padding-top: 27%;
+
+}
+
+.form-zone-save-contents-btn{
+    text-align: center;
+}
+
+

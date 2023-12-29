@@ -1,0 +1,1 @@
+headers.tsの、「JWT ＋」を削除　

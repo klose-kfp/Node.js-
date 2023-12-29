@@ -1,0 +1,9 @@
+.gutter1 {
+    width:0.2vw;
+    background-color: #1976d2;
+    opacity: 0.1;
+    cursor: col-resize;
+    background-repeat: no-repeat;
+    background-position: 50%;
+  }
+  

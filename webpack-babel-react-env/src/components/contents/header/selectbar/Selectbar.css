@@ -1,0 +1,75 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+.selectbox{
+    height: 80%;
+    width: 20%;
+    margin-left: 10%;
+}
+#menu-{
+    position: static;
+}
+
+#demo-multiple-checkbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* .css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input{
+    display: flex !important;
+    align-items: center!important;
+    min-height: 5%;
+    font-size: 15px!important;
+    padding: 0!important;
+    height:10%!important;
+}
+.css-qhxvbz-MuiFormLabel-root-MuiInputLabel-root{
+    font-size: 12px!important;
+}
+
+
+.css-p559gg-MuiFormLabel-root-MuiInputLabel-root{
+    margin-top: 10px!important;
+
+}
+.css-1craq0f-MuiFormControl-root{
+    margin: 0!important;
+    height:10%!important;
+}
+
+
+.css-5sp6hx-MuiListItemText-root{
+    display: flex;
+    align-items: center;
+    margin: 0!important;
+}
+
+.css-i4bv87-MuiSvgIcon-root{
+    font-size: 1.3rem!important;
+}
+.css-1d286es-MuiFormLabel-root-MuiInputLabel-root{
+    top: 7px!important;
+}
+.css-1bd6inm-MuiFormLabel-root-MuiInputLabel-root{
+    top: 20%!important;
+}
+
+.css-10hburv-MuiTypography-root{
+    font-size: 12px!important;
+}
+.css-n4do1s-MuiButtonBase-root-MuiMenuItem-root{
+    width: 40% !important;
+}
+
+.css-10nakn3-MuiModal-root-MuiPopover-root-MuiMenu-root{
+    position:  static!important;
+}
+.css-esi9ax{
+position:  static!important;
+} */
+
+/* .menuitem{
+    height: 9% !important;
+
+} */

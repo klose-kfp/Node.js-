@@ -1,0 +1,14 @@
+.responseimage{
+    width:100%;
+    height: 100%;
+
+}
+.responseimage{
+    overflow-y: scroll;
+}
+.responseimage::-webkit-scrollbar {
+    display: none;
+  }
+.MermaidForm{
+    width:90%
+}

@@ -1,0 +1,15 @@
+.userupdate-page{
+    height: 100vh;
+    max-width: 100vw;
+    text-align: center;
+}
+
+.userupdate-main{
+    width: 45%;
+    display: inline-block;
+    text-align: center;
+}
+
+.button-zone{
+    width: 45%;
+} 

@@ -1,0 +1,18 @@
+.TextTyping{
+  width: 70%;
+  font-family: 'Oswald', sans-serif;
+}
+
+/*文字列後ろの線の設定*/
+.TextTyping::after {
+    margin-left: 0.2%;
+    height: 100%;
+    content: "|";
+    font-size: 33px;
+    animation: typinganime .8s ease 30;
+  }
+  
+  @keyframes typinganime{
+    from{opacity:0}
+    to{opacity:1}
+  }

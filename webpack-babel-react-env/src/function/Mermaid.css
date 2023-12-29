@@ -1,0 +1,42 @@
+.mermaids{
+    width: 100%!important;
+    display: flex;
+    justify-content: center;
+}
+.mermaids svg {
+    width:85%;
+    max-width: 90vw!important;
+    /* height: auto!important; */
+}
+.mermaids-temp{
+    width: 100%!important;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 3%;
+}
+
+.mermaids-temp svg{
+    width:85%;
+    max-width: 90vw!important;
+    /* max-width: 851px!important; */
+}
+
+.mermaid-form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:100%;
+}
+
+/* .actor{
+    fill: aqua!important;
+}
+
+tspan{
+    fill: black!important;
+    font-size: 18px;
+    background: white;
+    stroke: black!important;
+    stroke-width: 0.2;
+    stroke-linejoin: round;
+} */

@@ -1,0 +1,42 @@
+.temprate-contents{
+    height: 100%;
+    width: 100%;
+}
+.tempratetext::-webkit-scrollbar {
+    display: none;
+  }
+  
+
+.temprate-nav{
+    display: flex;
+    justify-content: center;
+    height: 11%;
+    padding-top: 2%;
+    /* padding-bottom: 1%; */
+}
+
+
+.temprate{
+    /* text-align: center; */
+    height: 89%;
+    overflow-y: scroll;
+}
+
+.temprate-title{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: 40px;
+    text-align: center;
+    text-decoration-skip-ink:none;
+}
+.temprate-temp{
+    height: 100%;
+    margin-bottom: 4%;
+}
+
+.temprate-text{
+    /* height: 100%; */
+    font-size: 30px;
+    padding-bottom: 4%;
+}
+

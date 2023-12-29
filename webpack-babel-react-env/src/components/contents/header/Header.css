@@ -1,0 +1,6 @@
+.header{
+    height: 10%;
+    display: flex!important;
+    justify-content:space-around;
+    /* border-bottom: 0.1vw solid black; */
+}

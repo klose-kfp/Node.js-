@@ -1,0 +1,9 @@
+.steplabel span{
+    font-size:20px!important;
+    margin-top: 2%!important;
+    color: darkgray!important;
+}
+
+.nowstep span{
+    color: black!important;
+}

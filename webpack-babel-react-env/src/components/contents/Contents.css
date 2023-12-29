@@ -1,0 +1,14 @@
+.content{
+    display:flex;
+    flex-flow: column;
+    width:98%;
+} 
+.gutter2 {
+    background-color: black;
+    height: 2px;
+    margin-top: 8px;
+    cursor: row-resize;
+    background-repeat: no-repeat;
+    background-position: 50%;
+  }
+  

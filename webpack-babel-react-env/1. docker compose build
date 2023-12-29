@@ -1,0 +1,7 @@
+1. docker compose build
+2. docker compose run XXXXX xxxxx.sh
+3. docker compose up
+
+Dockerfile
+compose.yaml
+shell script

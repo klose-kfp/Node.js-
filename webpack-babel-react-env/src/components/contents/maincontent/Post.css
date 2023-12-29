@@ -1,0 +1,7 @@
+.posttext-post{
+    overflow-y: scroll;
+}
+.posttext-post::-webkit-scrollbar {
+    display: none;
+  }
+  

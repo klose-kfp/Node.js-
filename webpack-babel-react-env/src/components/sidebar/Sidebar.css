@@ -1,0 +1,39 @@
+.sidebar {
+  height:100vh;
+  text-align: center !important;
+}
+
+.sidebar-button{
+  display: block!important;
+  max-height:100vh;
+  overflow-y: scroll;
+}
+.sidebar-button::-webkit-scrollbar {
+  display: none;
+}
+
+.user-name{
+  padding-top: 65%!important;
+  padding-bottom: 30%!important;
+}
+
+.nav-link{
+  width: 100%;
+}
+.side-button{
+  padding-top: 20%!important;
+  padding-bottom: 20%!important;
+}
+.info-change-button{
+  margin-top: 120%!important;
+}
+
+.mini-font{
+  font-size: 20px!important;
+}
+
+.logout-button{
+  margin-top: 2%!important;
+  padding-top: 15%!important;
+  padding-bottom: 15%!important;
+}

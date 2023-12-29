@@ -1,0 +1,9 @@
+.clickedcontents{
+  height: 100%;
+  padding-left: 4%;
+  padding-top: 4%; 
+  overflow-y: scroll;
+}
+.clickedcontents::-webkit-scrollbar {
+  display: none;
+}
